@@ -3,4 +3,4 @@ In this project, We uses reserved data to divide the baggage by seats, It gets t
 
 # Project Output
 ## Case A
-### ![Case A-1](C:/Users/형석/Desktop/github 이미지/Case A)
+### ![Case A-1](/assets/Case A-1.png)
