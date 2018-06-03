@@ -4,12 +4,16 @@ In this project, We uses reserved data to divide the baggage by seats, It gets t
 # Project Output
 ## Case A
 ### Case A-1
+#### When we start this machine.
 #### ![Case A-1](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20A-1.png)
 
 ### Case A-2
+#### When a box is moving, this image shows that webcam is processing a barcode. 
 #### ![Case A-2](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20A-2.png)
 
 ### Case A-3
+#### If barcode information and ultrasonic sensor are matched, output represents case(A). 
+#### Then a motor will activate.
 #### ![Case A-3](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20A-3.png)
 
 ## Case B
