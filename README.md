@@ -3,4 +3,5 @@ In this project, We uses reserved data to divide the baggage by seats, It gets t
 
 # Project Output
 ## Case A
-### ![Case A-1](/assets/Case A-1.png)
+### Case A-1
+#### ![Case A](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20A-1.png)
