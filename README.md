@@ -45,6 +45,9 @@ In this project, We uses reserved data to divide the baggage by seats, It gets t
 #### ![The whole image 2](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/%EC%A0%84%EC%B2%B4%EC%A0%81%20%EC%82%AC%EC%A7%842.jpg)
 
 
+
+
+
 # Used Language 
 ## We used Python language(Opencv 3.3/ Zbar 0.10) and Raspberry Pi OS raspbian(Linux). you can see and use programming code in this project. If you want to know more about programming code, you would reference attached files.
 ### - 'barcode Scan and Detect.py' contains informations about barcode scan and detect using Opencv 3.3, Zbar 0.10.
@@ -52,5 +55,9 @@ In this project, We uses reserved data to divide the baggage by seats, It gets t
 ### - 'Stepmotor2ps.py' contains information about control two motors.
 
 
+
+
+
 # Reference Image
 ## <https://youtu.be/n8hb0nDdPQM>
+This video shows that barcode scans and detects process and move classification machine by case.  
