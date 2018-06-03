@@ -18,14 +18,27 @@ In this project, We uses reserved data to divide the baggage by seats, It gets t
 
 ## Case B
 ### Case B-1
+#### When a box is moving, this image shows that webcam is processing a barcode.
 #### ![Case B-1](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20B-1.png)
 
 ### Case B-2
+#### If barcode information and ultrasonic sensor are matched, output represents case(A). 
+#### Then a motor will activate.
 #### ![Case B-2](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20B-2.png)
 
 ## Case C
 ### Case C-1
+#### When a box is moving, this image shows that webcam is processing a barcode.
 #### ![Case C-1](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20C-1.png)
 
 ### Case C-2
+#### If barcode information and ultrasonic sensor are matched, output represents case(A). 
+#### Then a motor will activate.
 #### ![Case C-2](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20C-2.png)
+
+## The whole images
+### The whole image 1 (Diagonal)
+#### ![The whole image 1](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/%EC%A0%84%EC%B2%B4%EC%A0%81%20%EC%82%AC%EC%A7%841.jpg)
+
+### The whole image 2 (Side)
+#### ![The whole image 2](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/%EC%A0%84%EC%B2%B4%EC%A0%81%20%EC%82%AC%EC%A7%842.jpg)
