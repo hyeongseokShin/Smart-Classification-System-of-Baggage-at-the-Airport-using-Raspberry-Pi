@@ -4,4 +4,24 @@ In this project, We uses reserved data to divide the baggage by seats, It gets t
 # Project Output
 ## Case A
 ### Case A-1
-#### ![Case A](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20A-1.png)
+#### ![Case A-1](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20A-1.png)
+
+### Case A-2
+#### ![Case A-2](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20A-2.png)
+
+### Case A-3
+#### ![Case A-3](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20A-3.png)
+
+## Case B
+### Case B-1
+#### ![Case B-1](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20B-1.png)
+
+### Case B-2
+#### ![Case B-2](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20B-2.png)
+
+## Case C
+### Case C-1
+#### ![Case C-1](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20C-1.png)
+
+### Case C-2
+#### ![Case C-2](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20C-2.png)
