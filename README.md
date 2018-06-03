@@ -42,3 +42,6 @@ In this project, We uses reserved data to divide the baggage by seats, It gets t
 
 ### The whole image 2 (Side)
 #### ![The whole image 2](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/%EC%A0%84%EC%B2%B4%EC%A0%81%20%EC%82%AC%EC%A7%842.jpg)
+
+
+# 
