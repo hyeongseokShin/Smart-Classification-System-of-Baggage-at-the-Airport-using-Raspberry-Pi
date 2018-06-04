@@ -23,7 +23,7 @@ In this project, We uses reserved data to divide the baggage by seats, It gets t
 #### ![Case B-1](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20B-1.png)
 
 ### Case B-2
-#### If barcode information and ultrasonic sensor are matched, output represents case(A). 
+#### If barcode information and ultrasonic sensor are matched, output represents case(B). 
 #### Then a motor will activate.
 #### ![Case B-2](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20B-2.png)
 
@@ -33,7 +33,7 @@ In this project, We uses reserved data to divide the baggage by seats, It gets t
 #### ![Case C-1](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20C-1.png)
 
 ### Case C-2
-#### If barcode information and ultrasonic sensor are matched, output represents case(A). 
+#### If barcode information and ultrasonic sensor are matched, output represents case(C). 
 #### Then a motor will activate.
 #### ![Case C-2](https://github.com/hyeongseokShin/Smart-Classification-System-of-Baggage-at-the-Airport-using-Raspberry-Pi/blob/master/assets/Case%20C-2.png)
 
@@ -53,7 +53,7 @@ In this project, We uses reserved data to divide the baggage by seats, It gets t
  
 ### - 'barcode Scan and Detect.py' contains informations about barcode scan and detect using Opencv 3.3, Zbar 0.10.
 ### - 'Ultrasonic sensor(HC-SRO 4) and Stepmotor Fusion.py' contains informations about recognize object.
-### - 'Stepmotor2ps.py' contains information about control two motors.
+### - 'Stepmotor2ps.py' contains information about controlling motor.
 
 
 
@@ -61,4 +61,4 @@ In this project, We uses reserved data to divide the baggage by seats, It gets t
 
 # Reference Image
 ## <https://youtu.be/n8hb0nDdPQM>
-This video shows that barcode scans and detects process and move classification machine by case.  
+This video shows that webcam scans and detects barcode and classification machine is moved by case.  
